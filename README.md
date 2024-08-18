@@ -4,4 +4,5 @@ nuevo
 cambios
 a
 nuevo ramala
-fallos
+fallosgit 
+a
